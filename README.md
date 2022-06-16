@@ -1,11 +1,11 @@
-# python_server_using_Flask
+# Hadling Messages Server
 A server that handles Addition, Reception and Deletion messages.
 
 ## Project Contents
 * [General Information](#general-information)
 * [Requirements](#requirements)
 * [Technologies](#technologies)
-* [How to run](#setup-and-run-instructions)
+* [How to run](#How-to-run)
 
 ## General Information
 Implementation of server written in python, using “flask” microframework.
